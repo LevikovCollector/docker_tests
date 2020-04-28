@@ -1,0 +1,76 @@
+INFO:root:=**********************=
+INFO:test_main_page:===== Начало теста =====
+INFO:driver_log:Открыт браузер Google Chrome
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент 'div.product-thumb.transition>div.button-group>button:first-child'
+INFO:driver_log:Найден элемент '#menu  li:nth-child(6)'
+INFO:driver_log:Найден элемент 'div[class='product-thumb transition']>div[class='image']>a'
+INFO:driver_log:Найден элемент '#search > input[name='search']'
+INFO:driver_log:Найден элемент 'ul[class='list-inline']>li:nth-child(4)>a'
+INFO:driver_log:Найден элемент 'ul[class='nav navbar-nav']>li'
+INFO:test_main_page:===== Конец теста =====
+
+INFO:root:=**********************=
+INFO:test_category_page:===== Начало теста =====
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент '#menu  li:nth-child(6)'
+INFO:driver_log:Клик по элементу <selenium.webdriver.remote.webelement.WebElement (session="a52698c24c7fe6ef173ce225c755623a", element="0.7262846964734-1")>
+INFO:driver_log:Найден элемент 'div.product-thumb div.button-group>button:first-child'
+INFO:driver_log:Найден элемент '#content h2'
+INFO:driver_log:Найден элемент '#grid-view'
+INFO:driver_log:Найден элемент '#list-view'
+INFO:driver_log:Найден элемент '#content div.product-thumb'
+INFO:driver_log:Найден элемент 'div.product-thumb div.button-group>button[data-original-title='Add to Wish List']'
+INFO:test_category_page:===== Конец теста =====
+
+INFO:root:=**********************=
+INFO:test_product_page:===== Начало теста =====
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент 'div[class='product-thumb transition']>div[class='image']>a'
+INFO:driver_log:Клик по элементу <selenium.webdriver.remote.webelement.WebElement (session="a52698c24c7fe6ef173ce225c755623a", element="0.24324197995684815-1")>
+INFO:driver_log:Найден элемент 'div.btn-group > button[data-original-title='Add to Wish List']'
+INFO:driver_log:Найден элемент 'div.form-group > #button-cart'
+INFO:driver_log:Найден элемент 'div.tab-content'
+INFO:driver_log:Найден элемент 'div.col-sm-8 a.thumbnail>img'
+INFO:driver_log:Найден элемент 'div.col-sm-4  * >  h2'
+INFO:test_product_page:===== Конец теста =====
+
+INFO:driver_log:Работа браузера завершена
+INFO:root:=**********************=
+INFO:test_main_page:===== Начало теста =====
+INFO:driver_log:Открыт браузер Google Chrome
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент 'div.product-thumb.transition>div.button-group>button:first-child'
+INFO:driver_log:Найден элемент '#menu  li:nth-child(6)'
+INFO:driver_log:Найден элемент 'div[class='product-thumb transition']>div[class='image']>a'
+INFO:driver_log:Найден элемент '#search > input[name='search']'
+INFO:driver_log:Найден элемент 'ul[class='list-inline']>li:nth-child(4)>a'
+INFO:driver_log:Найден элемент 'ul[class='nav navbar-nav']>li'
+INFO:test_main_page:===== Конец теста =====
+
+INFO:root:=**********************=
+INFO:test_category_page:===== Начало теста =====
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент '#menu  li:nth-child(6)'
+INFO:driver_log:Клик по элементу <selenium.webdriver.remote.webelement.WebElement (session="44a46c46ad74c1bca73cb4a54c6bb802", element="0.4027863175588029-1")>
+INFO:driver_log:Найден элемент 'div.product-thumb div.button-group>button:first-child'
+INFO:driver_log:Найден элемент '#content h2'
+INFO:driver_log:Найден элемент '#grid-view'
+INFO:driver_log:Найден элемент '#list-view'
+INFO:driver_log:Найден элемент '#content div.product-thumb'
+INFO:driver_log:Найден элемент 'div.product-thumb div.button-group>button[data-original-title='Add to Wish List']'
+INFO:test_category_page:===== Конец теста =====
+
+INFO:root:=**********************=
+INFO:test_product_page:===== Начало теста =====
+INFO:driver_log:Открыта страница http://192.168.1.72/opencart/
+INFO:driver_log:Найден элемент 'div[class='product-thumb transition']>div[class='image']>a'
+INFO:driver_log:Клик по элементу <selenium.webdriver.remote.webelement.WebElement (session="44a46c46ad74c1bca73cb4a54c6bb802", element="0.9935191138202708-1")>
+INFO:driver_log:Найден элемент 'div.btn-group > button[data-original-title='Add to Wish List']'
+INFO:driver_log:Найден элемент 'div.form-group > #button-cart'
+INFO:driver_log:Найден элемент 'div.tab-content'
+INFO:driver_log:Найден элемент 'div.col-sm-8 a.thumbnail>img'
+INFO:driver_log:Найден элемент 'div.col-sm-4  * >  h2'
+INFO:test_product_page:===== Конец теста =====
+
+INFO:driver_log:Работа браузера завершена

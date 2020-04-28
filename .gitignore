@@ -1,0 +1,12 @@
+
+pages_obj/__pycache__/
+
+locators/__pycache__/
+
+.idea/inspectionProfiles/
+
+.idea/
+
+tests/__pycache__/
+
+tests/.pytest_cache/
